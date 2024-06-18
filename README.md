@@ -1,3 +1,5 @@
-## Olá, bem vindo ao meu perfil do github.
-
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=GuilhermeABretas&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+## > Guilherme Bretas <
+<div>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeABretas&show_icons=true&theme=shadow_green&include_all_commits_=true&hide=issues"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeABretas&layout=compact&langs_count=16&theme=shadow_green"/>
+</div>
